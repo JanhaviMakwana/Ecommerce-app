@@ -1,0 +1,11 @@
+export const AUTH_SUCCESS = 'AUTH_SUCCESS';
+export const AUTH_FAIL = 'AUTH_FAIL';
+export const LOGOUT = 'LOGOUT';
+export const ADD_TO_CART = 'ADD_TO_CART';
+export const REMOVE_TO_CART = 'REMOVE_TO_CART';
+export const SET_AUTH_DATA = 'SET_AUTH_DATA';
+export const SEARCH_START = 'SEARCH_START';
+export const SEARCH_SUCCESS = 'SEARCH_SUCCESS';
+export const SEARCH_FAIL = 'SEARCH_FAIL';
+export const REMOVE_ERROR = 'REMOVE_ERROR';
+export const SET_ERROR = 'SET_ERROR';

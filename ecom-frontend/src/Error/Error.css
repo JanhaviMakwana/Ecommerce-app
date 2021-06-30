@@ -1,0 +1,10 @@
+.error{
+    background-color: rgba(252, 248, 248, 0.6);
+    padding: 10px;
+    height: 95vh;
+}
+
+.error > p{
+    margin: 300px auto;
+    font-size: 30px;
+}
